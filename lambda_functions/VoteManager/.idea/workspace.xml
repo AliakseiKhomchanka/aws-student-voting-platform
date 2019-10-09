@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc82b4db-24cc-4415-a114-906fd8508924" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test_events.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="318" selection-start-line="318" selection-end-line="319" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#434#1462#0" />
+                <element signature="e#1700#3079#0" />
+                <element signature="e#3369#4810#0" />
+                <element signature="e#4929#5810#0" />
+                <element signature="e#6011#7440#0" />
+                <element signature="e#7832#9929#0" />
+                <element signature="e#10386#14400#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test_dbmanager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#340#1010#0" />
+                <element signature="e#1220#1934#0" />
+                <element signature="e#1496#1736#0" />
+                <element signature="e#2495#3068#0" />
+                <element signature="e#3211#3816#0" />
+                <element signature="e#3366#3529#0" />
+                <element signature="e#3751#4937#0" />
+                <element signature="e#4937#5059#0" />
+                <element signature="e#5252#5460#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/payloads/test_payloads.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/payloads/__init__.py" />
+        <option value="$PROJECT_DIR$/test/payloads/test_payloads.py" />
+        <option value="$PROJECT_DIR$/event_processor/event_processor.py" />
+        <option value="$PROJECT_DIR$/test/test_events.py" />
+        <option value="$PROJECT_DIR$/db_manager/dynamodb_manager.py" />
+        <option value="$PROJECT_DIR$/test/test_dbmanager.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="6" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="payloads" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_dbmanager.py">
+    <configuration name="Unittests for test_events.TestEvents.test_add_voters" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_events.TestEvents.test_add_voters&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_events.TestEvents.test_event_recognition" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_events.TestEvents.test_event_recognition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_dbmanager.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_dbmanager.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_events.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="VoteManager-109fd11a-fde0-4e90-bc10-c8b4c8394d24" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_events.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_dbmanager.py" />
+        <item itemvalue="Python tests.Unittests in test_events.py" />
+        <item itemvalue="Python tests.Unittests for test_events.TestEvents.test_add_voters" />
+        <item itemvalue="Python tests.Unittests for test_events.TestEvents.test_event_recognition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc82b4db-24cc-4415-a114-906fd8508924" name="Default Changelist" comment="" />
+      <created>1570625419401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570625419401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 12m 07s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 13m 02s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 15m 15s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 24m 38s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 24m 54s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 25m 15s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 27m 33s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 30m 52s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 31m 16s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_dbmanager_py - 2019.10.09 at 19h 32m 10s.xml">
+      <configuration name="Unittests in test_dbmanager.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/test_payloads.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event_processor/schema_manager.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/payloads/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event_processor/event_processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="114" column="81" lean-forward="true" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/payloads/test_payloads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="318" selection-start-line="318" selection-end-line="319" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#434#1462#0" />
+            <element signature="e#1700#3079#0" />
+            <element signature="e#3369#4810#0" />
+            <element signature="e#4929#5810#0" />
+            <element signature="e#6011#7440#0" />
+            <element signature="e#7832#9929#0" />
+            <element signature="e#10386#14400#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_manager/dynamodb_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="91" column="56" lean-forward="true" selection-start-line="89" selection-start-column="50" selection-end-line="91" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_dbmanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#340#1010#0" />
+            <element signature="e#1220#1934#0" />
+            <element signature="e#1496#1736#0" />
+            <element signature="e#2495#3068#0" />
+            <element signature="e#3211#3816#0" />
+            <element signature="e#3366#3529#0" />
+            <element signature="e#3751#4937#0" />
+            <element signature="e#4937#5059#0" />
+            <element signature="e#5252#5460#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
