@@ -21,10 +21,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 **D:\PROJECTS\CodeSnek\test_program\module2\module2file.py**
@@ -48,10 +48,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 
@@ -66,10 +66,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 
@@ -84,10 +84,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 
@@ -95,10 +95,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbspmain ---> <b>do_different</b></summary>
 
     This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+    :param int number: It's a number<br>
+    :param string word: It's a word<br>
+    :returns: Nothing of value<br>
+    :rtype: None
 </details>
 
 **D:\PROJECTS\CodeSnek\test_program\module2\module2file.py**
@@ -122,10 +122,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 
@@ -133,10 +133,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbspmain ---> <b>do_different</b></summary>
 
     This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+    :param int number: It's a number<br>
+    :param string word: It's a word<br>
+    :returns: Nothing of value<br>
+    :rtype: None
 </details>
 
 **D:\PROJECTS\CodeSnek\test_program\module2\module2file.py**
@@ -160,10 +160,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 
@@ -171,10 +171,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbspmain ---> <b>do_different</b></summary>
 
     This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+    :param int number: It's a number<br>
+    :param string word: It's a word<br>
+    :returns: Nothing of value<br>
+    :rtype: None
 </details>
 
 **D:\PROJECTS\CodeSnek\test_program\module2\module2file.py**
@@ -198,10 +198,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdo_things ---> <b>do_different</b></summary>
 
         This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+        :param int number: It's a number<br>
+        :param string word: It's a word<br>
+        :returns: Nothing of value<br>
+        :rtype: None
 </details>
 
 
@@ -209,10 +209,10 @@ Mind the empty line
 <summary>&nbsp&nbsp&nbsp&nbspmain ---> <b>do_different</b></summary>
 
     This does different things<br>
-:param int number: It's a number<br>
-:param string word: It's a word<br>
-:returns: Nothing of value<br>
-:rtype: None
+    :param int number: It's a number<br>
+    :param string word: It's a word<br>
+    :returns: Nothing of value<br>
+    :rtype: None
 </details>
 
 **D:\PROJECTS\CodeSnek\test_program\module2\module2file.py**
