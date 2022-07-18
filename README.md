@@ -7,7 +7,9 @@ This is a docstring lalala
 tralala
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module1\module1file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
@@ -21,14 +23,18 @@ woah boi is that a docstring?
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module2\module2file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module1\module1file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
@@ -77,14 +83,18 @@ woah boi is that a docstring?
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module2\module2file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module1\module1file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
@@ -105,14 +115,18 @@ woah boi is that a docstring?
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module2\module2file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module1\module1file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
@@ -133,14 +147,18 @@ woah boi is that a docstring?
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module2\module2file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module1\module1file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
@@ -161,7 +179,9 @@ woah boi is that a docstring?
 
 </details>
 
-        
+        *D:\PROJECTS\CodeSnek\test program\module2\module2file.py*
+------
+
 <details>
 <summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
