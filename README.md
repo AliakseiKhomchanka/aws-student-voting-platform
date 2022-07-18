@@ -9,7 +9,7 @@ tralala
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b></summary>
 
 woah boi is that a docstring?
 </details>
