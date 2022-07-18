@@ -1,7 +1,7 @@
 # Program workflow:
 
 <details>
-<summary><module> ---> <b>main</b></summary>
+<summary><module> ---> <b>main</b> (main.py)</summary>
 
 This is a docstring lalala
 tralala
@@ -9,161 +9,161 @@ tralala
 
         
 <details>
-<summary>    main ---> <b>do_things</b></summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_other_things*</summary>
+<summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_different*</summary>
+<summary>    main ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_other_things*</summary>
+<summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_different*</summary>
+<summary>    main ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_other_things*</summary>
+<summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_different*</summary>
+<summary>    main ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_other_things*</summary>
+<summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_things*</summary>
+<summary>    main ---> <b>do_things</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_things ---> *do_different*</summary>
+<summary>        do_things ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_different*</summary>
+<summary>    main ---> <b>do_different</b> (D:\PROJECTS\CodeSnek\test program\module1\module1file.py)</summary>
 
 
 </details>
 
         
 <details>
-<summary>    main ---> *do_other_things*</summary>
+<summary>    main ---> <b>do_other_things</b> (D:\PROJECTS\CodeSnek\test program\module2\module2file.py)</summary>
 
 
 </details>
