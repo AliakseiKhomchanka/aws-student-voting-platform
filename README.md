@@ -3,7 +3,9 @@
 <details>
 <summary><module> ---> <b>main</b></summary>
 
-This is a docstring lalala<br>tralala<br>Mind the empty line
+This is a docstring lalala<br>
+tralala<br>
+Mind the empty line
 </details>
 
 **D:\PROJECTS\CodeSnek\test_program\module1\module1file.py**
