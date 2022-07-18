@@ -1,7 +1,7 @@
 # Program workflow:
 
         <details>
-        <summary>main called from <module>
+        <summary>main called from module
         </summary>
         
         This is a docstring lalala
