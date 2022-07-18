@@ -1,7 +1,7 @@
 # Program workflow:
 
 <details>
-<summary><module> ---> **main**</summary>
+<summary><module> ---> <b>main</b></summary>
 
 This is a docstring lalala
 tralala
