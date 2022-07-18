@@ -1,7 +1,7 @@
 # Program workflow:
 
 <details>
-<summary>main called from <module></summary>
+<summary><module> ---> *main*</summary>
 
 This is a docstring lalala
 tralala
@@ -9,63 +9,163 @@ tralala
 
         
 <details>
-<summary>    do_things called from main</summary>
+<summary>    main ---> *do_things*</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_different called from do_things</summary>
+<summary>        do_things ---> *do_different*</summary>
 
 
 </details>
 
         
 <details>
-<summary>    do_other_things called from main</summary>
+<summary>    main ---> *do_other_things*</summary>
 
 
 </details>
 
         
 <details>
-<summary>    do_things called from main</summary>
+<summary>    main ---> *do_things*</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_different called from do_things</summary>
+<summary>        do_things ---> *do_different*</summary>
 
 
 </details>
 
         
 <details>
-<summary>    do_things called from main</summary>
+<summary>    main ---> *do_things*</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_different called from do_things</summary>
+<summary>        do_things ---> *do_different*</summary>
 
 
 </details>
 
         
 <details>
-<summary>    do_things called from main</summary>
+<summary>    main ---> *do_things*</summary>
 
 woah boi is that a docstring?
 </details>
 
         
 <details>
-<summary>        do_different called from do_things</summary>
+<summary>        do_things ---> *do_different*</summary>
 
 
 </details>
+
+        
+<details>
+<summary>    main ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_other_things*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_things*</summary>
+
+woah boi is that a docstring?
+</details>
+
+        
+<details>
+<summary>        do_things ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_other_things*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_things*</summary>
+
+woah boi is that a docstring?
+</details>
+
+        
+<details>
+<summary>        do_things ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_other_things*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_things*</summary>
+
+woah boi is that a docstring?
+</details>
+
+        
+<details>
+<summary>        do_things ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_different*</summary>
+
+
+</details>
+
+        
+<details>
+<summary>    main ---> *do_other_things*</summary>
+
+
+</details>
+
+        
